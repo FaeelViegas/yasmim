@@ -1203,6 +1203,7 @@ body {
   opacity: 0;
   animation: message-fade 3s 3s forwards;
   z-index: 1000;
+  text-align: center;
 }
 
 @keyframes message-fade {
